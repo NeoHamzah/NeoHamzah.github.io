@@ -10,3 +10,15 @@ section {
 #projects {
     background-color: #e2edff;
 }
+
+.gallery-img {
+    width: 100%;
+}
+
+#gallery .row > * {
+    padding: 0;
+}
+
+#contact {
+    background-color: #e2edff;
+}
